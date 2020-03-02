@@ -13,6 +13,7 @@ Your goal is to recreate the website below, replacing the personal specifics wit
 - At least one of your sections needs to use a background image.
 - One of your sections needs to have at least four pictures.
 - Use a hexidecimal color code at least once.
+- Pull request due at 11PM!
 
 ## Bonus
 - Import and apply a `font-family` from Google Fonts
